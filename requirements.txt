@@ -1,0 +1,6 @@
+streamlit == 1.13.0
+openai == 0.27.6
+langchain == 0.0.251
+radon == 6.0.1
+requests
+PyGithub ==1.59.1
